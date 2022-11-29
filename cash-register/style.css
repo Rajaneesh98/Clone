@@ -1,0 +1,12 @@
+* {
+}
+
+td {
+  padding: 1rem;
+}
+
+.errormsg {
+  font-size: 2rem;
+  color: red;
+  align-content: center;
+}
